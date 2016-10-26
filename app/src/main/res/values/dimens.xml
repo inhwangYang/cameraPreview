@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="preview_width">640px</dimen>
+    <dimen name="preview_height">480px</dimen>
+
+</resources>
